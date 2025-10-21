@@ -6,3 +6,5 @@ The project's main goals are:
 - Prediction challenge: predicting the demand for the bike-sharing system
 
 The results are presented in a final report.
+
+The dataset used can be found [here](https://s3.amazonaws.com/tripdata/index.html) (_2018-citibike-tripdata.zip_)
